@@ -6,8 +6,9 @@
 批量：python3  xxx.py  -f  <target.txt>
      <target.txt> 为目标IP+端口集合
      例：
-     x.x.x.x:1234\n  
-     x.x.x.x:123
+     
+     x.x.x.x:1234 
+     
      运行后会在脚本同级目录生成两个文件，Success储存检测成功的地址，Fail储存检测失败的地址。
      
      
